@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, msgSP, Toast.LENGTH_SHORT).show();
     }
 
-    @Override
+    @Override // ojiasdjoasdojiasdojiasdojiasdojiasdjoi
     protected void onPause() {
         super.onPause();
 
